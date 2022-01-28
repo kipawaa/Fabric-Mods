@@ -3,24 +3,24 @@ This is a private (possibly public in the future but unlikely) repo just to make
 
 ## Current Mods:
 ### Performance Mods:
-- Lithium
-- Sodium
-- Phosphor
-- LambDynamicLighting
+- [Lithium](https://www.curseforge.com/minecraft/modpacks/lithium)
+- [Sodium](https://www.curseforge.com/minecraft/mc-mods/sodium)
+- [Phosphor](https://www.curseforge.com/minecraft/mc-mods/phosphor)
+- [LambDynamicLighting](https://www.curseforge.com/minecraft/mc-mods/lambdynamiclights)
 
 ### Information Mods:
-- InventoryHud
-- Xaero's Minimap
-- Advancement Info
-- Appleskin
-- ModMenu
-- ShulkerBoxTooltips
+- [InventoryHud](https://www.curseforge.com/minecraft/mc-mods/inventory-hud-forge)
+- [Xaero's Minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap)
+- [Advancement Info](https://www.curseforge.com/minecraft/mc-mods/advancementinfo)
+- [Appleskin](https://www.curseforge.com/minecraft/mc-mods/appleskin)
+- [ModMenu](https://www.curseforge.com/minecraft/mc-mods/modmenu)
+- [ShulkerBoxTooltips](https://www.curseforge.com/minecraft/mc-mods/shulkerboxtooltip)
 
 ### QOL Mods:
-- replanter
+- [replanter](https://www.curseforge.com/minecraft/mc-mods/replanter)
 
 ### Aesthetic Mods:
-- ArmorChroma
+- [ArmorChroma](https://www.curseforge.com/minecraft/mc-mods/armor-chroma-for-fabric)
 
 ## Possible Additions:
-- Effective
+- [Effective](https://www.curseforge.com/minecraft/mc-mods/effective)
