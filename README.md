@@ -11,6 +11,7 @@ This is a private (possibly public in the future but unlikely) repo just to make
 ### Information Mods:
 - [InventoryHud](https://www.curseforge.com/minecraft/mc-mods/inventory-hud-forge)
 - [Xaero's Minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap)
+- [Xaero's World Map](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map)
 - [Advancement Info](https://www.curseforge.com/minecraft/mc-mods/advancementinfo)
 - [Appleskin](https://www.curseforge.com/minecraft/mc-mods/appleskin)
 - [ModMenu](https://www.curseforge.com/minecraft/mc-mods/modmenu)
