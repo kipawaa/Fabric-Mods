@@ -16,6 +16,7 @@ This is a private (possibly public in the future but unlikely) repo just to make
 - [Appleskin](https://www.curseforge.com/minecraft/mc-mods/appleskin)
 - [ModMenu](https://www.curseforge.com/minecraft/mc-mods/modmenu)
 - [ShulkerBoxTooltips](https://www.curseforge.com/minecraft/mc-mods/shulkerboxtooltip)
+- [FreeCam](https://www.curseforge.com/minecraft/mc-mods/free-cam)
 
 ### QOL Mods:
 - [replanter](https://www.curseforge.com/minecraft/mc-mods/replanter)
