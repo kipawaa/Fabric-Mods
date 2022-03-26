@@ -1,9 +1,10 @@
 # Fabric-Mods
-This is a private (possibly public in the future but unlikely) repo just to make it easy to check which mods i run and transfer them between computers/installations
+This repo contains all of the fabric mods that I use to make playing minecraft more enjoyable :)
+They are all client-sided, but some (ex. freecam) are often considered cheating on servers so use at your own risk!
 
 ## Current Mods:
 ### Performance Mods:
-- [Lithium](https://www.curseforge.com/minecraft/modpacks/lithium)
+- [Lithium](https://www.curseforge.com/minecraft/mc-mods/lithium)
 - [Sodium](https://www.curseforge.com/minecraft/mc-mods/sodium)
 - [Phosphor](https://www.curseforge.com/minecraft/mc-mods/phosphor)
 - [LambDynamicLighting](https://www.curseforge.com/minecraft/mc-mods/lambdynamiclights)
