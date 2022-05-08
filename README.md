@@ -22,6 +22,7 @@ They are all client-sided, but some (ex. freecam) are often considered cheating 
 - [FreeCam](https://www.curseforge.com/minecraft/mc-mods/free-cam)
 
 ### QOL Mods:
+- [Logical Zoom](https://www.curseforge.com/minecraft/mc-mods/logical-zoom)
 - [replanter](https://www.curseforge.com/minecraft/mc-mods/replanter)
 
 ### Aesthetic Mods:
