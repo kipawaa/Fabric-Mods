@@ -2,6 +2,8 @@
 This repo contains all of the fabric mods that I use to make playing minecraft more enjoyable :)
 They are all client-sided, but some (ex. freecam) are often considered cheating on servers so use at your own risk!
 
+## [Fabric Website](https://fabricmc.net/use/installer/)
+
 ## Current Mods:
 ### Performance Mods:
 - [Lithium](https://www.curseforge.com/minecraft/mc-mods/lithium)
