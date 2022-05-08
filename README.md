@@ -2,7 +2,9 @@
 This repo contains all of the fabric mods that I use to make playing minecraft more enjoyable :)
 They are all client-sided, but some (ex. freecam) are often considered cheating on servers so use at your own risk!
 
-## [Fabric Website](https://fabricmc.net/use/installer/)
+## Fabric and Fabric API
+- [Fabric Website](https://fabricmc.net/use/installer/)
+- [Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api)
 
 ## Current Mods:
 ### Performance Mods:
@@ -27,6 +29,7 @@ They are all client-sided, but some (ex. freecam) are often considered cheating 
 
 ### Aesthetic Mods:
 - [ArmorChroma](https://www.curseforge.com/minecraft/mc-mods/armor-chroma-for-fabric)
+- [Iris](https://www.curseforge.com/minecraft/mc-mods/irisshaders)
 
 ## Possible Additions:
 - [Effective](https://www.curseforge.com/minecraft/mc-mods/effective)
